@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1200px) {
+  .brand_flex span {
+    font-size: 2.1rem;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  html {
+    font-size: 55.5%;
+  }
+  .hero_heading {
+    font-size: 4.5rem;
+    line-height: 5rem;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  html {
+    font-size: 47.5%;
+  }
+
+  .hero_contents {
+    width: 96%;
+  }
+  .forhomeform form input,
+  select,
+  textarea {
+    margin-bottom: 1.5rem;
+  }
+  .nav_flex{
+    width: 96%;
+    margin:0 auto;
+  }
+  .hero_heading{
+    font-size: 3.5rem;
+    line-height: 4rem;
+  }
+}
