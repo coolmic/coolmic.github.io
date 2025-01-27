@@ -18,7 +18,12 @@
   html {
     font-size: 47.5%;
   }
-
+  .brand_flex .logo_icon{
+    max-width: 5rem;
+  }
+  .brand_flex .main_logo{
+    max-width: 12rem!important;
+  }
   .hero_contents {
     width: 96%;
   }
